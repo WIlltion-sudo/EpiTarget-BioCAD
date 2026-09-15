@@ -104,7 +104,7 @@ $$T_m = \frac{\Delta H^\circ_{\text{total}} \times 1000}{\Delta S^\circ_{\text{t
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Willtion-sudo/EpiTarget-BioCAD.git
+git clone https://github.com/WIlltion-sudo/EpiTarget-BioCAD.git
 cd EpiTarget-BioCAD
 
 ```
